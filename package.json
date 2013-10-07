@@ -1,0 +1,17 @@
+{
+  "name": "react.io",
+  "version": "0.0.0",
+  "description": "Small experiment to see how easy it is to synchronize components using Socket.io.",
+  "main": "index.js",
+  "dependencies": {
+    "browserify-middleware": "~1.19.0",
+    "express": "~3.4.0",
+    "lodash": "~2.2.1",
+    "reactify": "~0.3.2",
+    "socket.io": "~0.9.16",
+    "react-tools": "~0.4.1"
+  },
+  "devDependencies": {},
+  "author": "Geert Pasteels",
+  "license": "BSD"
+}
